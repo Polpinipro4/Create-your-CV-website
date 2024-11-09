@@ -1,0 +1,179 @@
+/* Primary Colors */
+:root {
+    --primary-color: #97CDFF;
+    --secondary-color: #FFFFFF;
+    --tertiary-color: #F0F0F0;
+    --text-color: #333333;
+}
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    color: var(--text-color);
+    background-color: var(--secondary-color);
+}
+
+/* Header Styles */
+header {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 1em 0;
+    border-bottom: 4px solid var(--primary-color);
+    position: relative;
+}
+
+.header-title {
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+/* Social Media Icons in Header */
+.social-icons {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.social-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+    margin: 0 5px;
+}
+
+.social-icon:hover {
+    transform: scale(1.1);
+}
+
+/* Specific sizes for each social media icon */
+.facebook-icon .social-icon-img {
+    width: 40px;
+    height: 40px;
+}
+
+.twitter-icon .social-icon-img {
+    width: 25px;
+    height: 25px;
+}
+
+.instagram-icon .social-icon-img {
+    width: 28px;
+    height: 28px;
+}
+
+/* Subtitle "My Profile" */
+.profile-title {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 0.5em;
+}
+
+.profile-title img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 0.5em;
+}
+
+/* "Resume" and "Contact" Buttons */
+.resume-btn,
+.contact-btn {
+    font-size: 1em;
+    font-weight: 500;
+    padding: 0.6em 1.2em;
+    display: inline-flex;
+    align-items: center;
+    margin: 0 10px;
+    background-color: var(--tertiary-color);
+    border: none;
+    color: var(--text-color);
+}
+
+/* Button Icons */
+.resume-btn .resume-icon, .contact-btn .contact-icon {
+    margin-right: 0.5em;
+}
+
+/* Custom Icon Sizes for Each Button */
+.resume-btn .resume-icon {
+    width: 30px;  /* Icon size for Resume */
+    height: 40px;
+}
+
+.contact-btn .contact-icon {
+    width: 55px;  /* Icon size for Contact */
+    height: 60px;
+}
+
+/* Profile Section */
+main .container {
+    max-width: 800px;
+}
+
+main .row {
+    background-color: var(--tertiary-color);
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-photo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid var(--primary-color);
+}
+
+.profile-description {
+    font-size: 1em;
+    line-height: 1.5;
+    margin-left: 1.5em;
+}
+
+/* Skills Section */
+.skills-section {
+    background-color: var(--tertiary-color);
+    padding: 1.5em;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.skills-title {
+    font-size: 1.4em;
+    color: var(--primary-color);
+    font-weight: 600;
+    margin-bottom: 0.5em;
+}
+
+.skills-list {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 1em;
+}
+
+.skills-list li {
+    margin-bottom: 0.3em;
+    padding-left: 1.2em;
+    position: relative;
+}
+
+.skills-list li::before {
+    content: "•";
+    color: var(--primary-color);
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+}
+
+/* Footer */
+footer {
+    background-color: var(--tertiary-color);
+    color: var(--text-color);
+    text-align: center;
+    padding: 1em;
+    width: 100%;
+    margin-top: 2em;
+    font-size: 0.9em;
+}
