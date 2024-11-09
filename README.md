@@ -21,3 +21,6 @@ The visual design of the website employs a blue and white color scheme with a fo
 For typography, Arial is chosen for its clean, sans-serif style, known for readability across devices. The design uses a clear hierarchy in font sizing to help the user navigate the content easily, with the header title in a bold, larger font and section headings in medium-weight. The main text is kept in a smaller, regular weight for easy reading, allowing the viewer’s attention to flow naturally from one section to another without overwhelming them.
 
 Responsive design is ensured through Bootstrap’s grid system, which adapts to different screen sizes. The My Profile page, for instance, arranges the profile photo and bio text side-by-side on larger screens, while it stacks them on smaller screens for an optimal viewing experience. Additionally, slight hover effects on social media icons and buttons add a touch of interactivity, subtly engaging users without distracting them from the primary content. Each icon has a rounded, branded outline to distinguish the respective social media platforms, adding a personalized touch to the website.
+
+# Figma link
+https://www.figma.com/design/GT8jzKn1EAM16bVD7LywbO/CV-website?t=pvSl8JF2Vqz4nIwY-1
