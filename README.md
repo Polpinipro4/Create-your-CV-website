@@ -24,3 +24,6 @@ Responsive design is ensured through Bootstrap’s grid system, which adapts to 
 
 # Figma link
 https://www.figma.com/design/GT8jzKn1EAM16bVD7LywbO/CV-website?t=pvSl8JF2Vqz4nIwY-1
+
+# Public link
+https://polpinipro4.github.io/Create-your-CV-website/
