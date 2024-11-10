@@ -1,28 +1,29 @@
 # Create-your-CV-website
 #  User profile:
-Name: Alex García
+Name: Aleix Garcia
 
 Age: 32
 
 Occupation: Technical Recruiter in the Engineering/Technology Sector
 
-Background: Alex has been working as a recruiter for over eight years, with a primary focus on finding skilled candidates for roles in tech and engineering. With a degree in Human Resources and professional certifications in recruiting for technology roles, Alex has developed an eye for quickly identifying candidates who fit job requirements, from both technical and cultural perspectives. Alex is familiar with online portfolios and personal websites, often reviewing them to assess candidate skills, experience, and personality beyond what’s listed on traditional resumes.
+Background: Aleix has been working as a recruiter for over eight years, with a primary focus on finding skilled candidates for roles in tech and engineering. With a degree in Human Resources and professional certifications in recruiting for technology roles, Aleix has developed an eye for quickly identifying candidates who fit job requirements, from both technical and cultural perspectives. Aleix is familiar with online portfolios and personal websites, often reviewing them to assess candidate skills, experience, and personality beyond what’s listed on traditional resumes.
 
 Goals and Needs:
 
 To quickly assess technical skills and project experience, determining whether he is a suitable candidate for open roles.
 To understand areas of expertise, especially in programming, teamwork, and problem-solving, to gauge his potential as a well-rounded professional.
 To find a contact method to reach out directly or save my resume for later review, depending on recruiting needs.
+
 Frustrations:
 
-Alex often encounters poorly organized websites that make it difficult to locate key information.
-Alex prefers sites that have a clear, organized structure and are mobile-friendly, as a significant part of his role involves reviewing profiles on the go.
-Preferred Experience: Alex appreciates a visually appealing but professional-looking CV website that provides:
+Aleix often encounters poorly organized websites that make it difficult to locate key information.
+Aleix prefers sites that have a clear, organized structure and are mobile-friendly, as a significant part of his role involves reviewing profiles on the go.
+Preferred Experience: Aleix appreciates a visually appealing but professional-looking CV website that provides:
 
 A clear, immediate overview of the candidate's skills, experience, and profile photo.
 Quick access to a downloadable resume and straightforward contact options.
 Linked social media accounts to explore more about the candidate’s interests and network.
-Scenario: Alex is currently recruiting for an entry-level software development role and needs to screen my profile to assess his suitability. He would start by scanning my skills and project experience, verifying relevant details in the resume, and potentially saving the contact page for further outreach if Pol is a good fit for the position.
+Scenario: Aleix is currently recruiting for an entry-level software development role and needs to screen my profile to assess his suitability. He would start by scanning my skills and project experience, verifying relevant details in the resume, and potentially saving the contact page for further outreach.
 
 # Information Architecture
 The website is structured as a multi-page CV with consistent elements that ensure a cohesive user experience across all sections. Each page includes a header with my name and social media icons linking to my Facebook, Instagram, and Twitter profiles. These icons are positioned prominently for easy access to my professional social media accounts. The site also features two main navigation buttons that change based on the current page. These buttons offer links to key sections, such as Resume, Contact or My profile, ensuring that users can always find what they're looking for. At the bottom of every page, there’s a footer that includes copyright information, which adds a sense of professionalism and consistency throughout the site.
